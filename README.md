@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @APARNAB123
-- 👀 I’m interested in computational biology aspects
-- 🌱 I’m currently learning structural biology technique and ML
-- 📫 How to reach me -me.aparnabhat@gmail.com
-- 😄 Pronouns: she/her
-
+I’m Aparna B, a postgraduate student specializing in Bioinformatics at Manipal School of Life Sciences. My academic and research interests lie at the intersection of structural biology, computational immunology, and drug discovery. I’m particularly focused on leveraging open-source tools to design and analyze antibodies, explore protein-ligand interactions, and simulate biological systems with precision.
 
 <!---
 APARNAB123/APARNAB123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
